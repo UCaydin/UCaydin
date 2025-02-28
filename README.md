@@ -18,7 +18,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/umutcan-aydin/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/UCaydin/UCaydin/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/1SeaMy/1SeaMy/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/1SeaMy/1SeaMy/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/UCaydin/UCaydin/output/github-snake.svg" />
 </picture>
