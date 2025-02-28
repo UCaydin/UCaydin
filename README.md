@@ -22,4 +22,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/UCaydin/UCaydin/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/UCaydin/UCaydin/output/github-snake.svg" />
 </picture>
-![snake gif](https://github.com/UCaydin/UCaydin/blob/output/ocean.gif)
+![snake gif](https://github.com/1Seamy/1SeaMy/blob/output/github-contribution-grid-snake-dark.svg)
